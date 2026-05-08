@@ -430,13 +430,13 @@ MIT - See [LICENSE](./LICENSE)
 
 ## 💬 Questions?
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/b2b-product-scraper/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/b2b-product-scraper/discussions)
+- **Issues**: [GitHub Issues](https://github.com/FranciscoHonorat/b2b-product-scraper/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/FranciscoHonorat/b2b-product-scraper/discussions)
 - **Email**: your.email@example.com
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Francisco Honorato**
 
 ### Showcase
 
@@ -446,5 +446,4 @@ Successfully extracting from:
 - ✅ Distributor catalogs
 - ✅ Pricing aggregators
 
-**Your Site?** Submit a PR to add your use case! 🚀
-#
+
