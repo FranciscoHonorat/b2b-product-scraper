@@ -432,7 +432,7 @@ MIT - See [LICENSE](./LICENSE)
 
 - **Issues**: [GitHub Issues](https://github.com/FranciscoHonorat/b2b-product-scraper/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/FranciscoHonorat/b2b-product-scraper/discussions)
-- **Email**: your.email@example.com
+- **Email**: jeffhonorato230@gmail.com
 
 ---
 
